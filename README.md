@@ -19,7 +19,7 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 2. Extract the ZIP file and open the **bin** folder.  
 3. Run `autopsy.exe` and set up a new forensic case for analysis.
 
-### ** Autopsy for Linux **
+### **Install Autopsy for Linux**
 1. Open Terminal.
 2. Update your package list: sudo apt update
 3. Install Autopsy: sudo apt install autopsy
