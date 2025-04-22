@@ -37,15 +37,24 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 
 
 ## OUTPUT:
-## Analysing the disk file and configuration:
+### Autopsy for Windows
+![autopsy](https://github.com/user-attachments/assets/2f5bc402-c133-43e3-8b46-75e30d7a986d)
+
+### Autopsy for kali linux
+![image](https://github.com/user-attachments/assets/e79dcca1-9867-4f53-9395-a8d120787b06)
+
+![image](https://github.com/user-attachments/assets/40dc5035-5d0f-425e-bb48-487261af4f2f)
+
+### Analysing the disk file and configuration:
 ![image](https://github.com/user-attachments/assets/a4377b18-14e7-4daa-98f4-a6eb9e85f6b6)
 
 ![Screenshot 2025-04-22 215750](https://github.com/user-attachments/assets/461a6099-f23a-4e51-b1be-34e9c5409f10)
 
-![image](https://github.com/user-attachments/assets/6253905b-c769-421f-8e94-5a4953f458a7)
-
 ### Timeline:
 ![image](https://github.com/user-attachments/assets/a75f3d66-685b-4883-b3b7-ad8140072d96)
+
+## Data Source Summary Report:
+![image](https://github.com/user-attachments/assets/150130e9-703c-483c-b7a3-0135665046c5)
 
 
 ## RESULT:
