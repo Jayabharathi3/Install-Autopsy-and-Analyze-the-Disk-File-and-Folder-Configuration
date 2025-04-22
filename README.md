@@ -41,9 +41,9 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 ![autopsy](https://github.com/user-attachments/assets/2f5bc402-c133-43e3-8b46-75e30d7a986d)
 
 ### Autopsy for kali linux
-![image](https://github.com/user-attachments/assets/e79dcca1-9867-4f53-9395-a8d120787b06)
+![image](https://github.com/user-attachments/assets/d52ce649-c5de-41e8-bf5a-dae9af11b260)
 
-![image](https://github.com/user-attachments/assets/40dc5035-5d0f-425e-bb48-487261af4f2f)
+![image](https://github.com/user-attachments/assets/7f6280b0-b50c-497d-84fc-b42a39450ffa)
 
 ### Analysing the disk file and configuration:
 ![image](https://github.com/user-attachments/assets/a4377b18-14e7-4daa-98f4-a6eb9e85f6b6)
